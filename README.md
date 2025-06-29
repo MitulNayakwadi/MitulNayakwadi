@@ -26,6 +26,7 @@ Data Structures & Algorithms
 Creative problem-solving with code
 
 📫 Let’s Connect!
+
 LinkedIn: https://www.linkedin.com/in/mitul-nayakwadi-6a3218319/
 
 Email: mitulnayakwadi@gmail.com
