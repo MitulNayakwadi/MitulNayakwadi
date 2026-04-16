@@ -17,9 +17,9 @@
 
 <!-- Profile Views & Social Badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=mitul-nayakwadi&label=Profile%20Views&color=7c3aed&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=MitulNayakwadi&label=Profile%20Views&color=7c3aed&style=flat-square" alt="Profile Views"/>
   &nbsp;
-  <a href="https://www.linkedin.com/in/mitul-nayakwadi-6a3218319/">
+  <a href="https://www.linkedin.com/in/MitulNayakwadi-6a3218319/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
@@ -98,18 +98,18 @@ print(f"Hello, World! I'm {me.name} 👋")
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mitul-nayakwadi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=FFFFFF&rank_icon=github" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MitulNayakwadi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=FFFFFF&rank_icon=github" height="180" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitul-nayakwadi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MitulNayakwadi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF" height="180" alt="Top Languages"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mitul-nayakwadi&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=F472B6&currStreakLabel=A78BFA" alt="GitHub Streak" width="55%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MitulNayakwadi&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=F472B6&currStreakLabel=A78BFA" alt="GitHub Streak" width="55%"/>
 
 <br/><br/>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mitul-nayakwadi&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=7C3AED&point=F472B6" width="90%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MitulNayakwadi&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=7C3AED&point=F472B6" width="90%" alt="Activity Graph"/>
 
 </div>
 
@@ -156,7 +156,7 @@ print(f"Hello, World! I'm {me.name} 👋")
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/mitul-nayakwadi-6a3218319/">
+<a href="https://www.linkedin.com/in/MitulNayakwadi-6a3218319/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
