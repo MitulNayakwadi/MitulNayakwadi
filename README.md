@@ -98,8 +98,8 @@ print(f"Hello, World! I'm {me.name} 👋")
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MitulNayakwadi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=FFFFFF&rank_icon=github" height="180" alt="GitHub Stats"/>
-&nbsp;&nbsp;
+
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MitulNayakwadi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF" height="180" alt="Top Languages"/>
 
 <br/>
