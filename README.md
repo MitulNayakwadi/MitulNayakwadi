@@ -104,12 +104,10 @@ print(f"Hello, World! I'm {me.name} 👋")
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MitulNayakwadi&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=F472B6&currStreakLabel=A78BFA" alt="GitHub Streak" width="55%"/>
-
 <br/><br/>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MitulNayakwadi&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=7C3AED&point=F472B6" width="90%" alt="Activity Graph"/>
+
 
 </div>
 
