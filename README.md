@@ -93,18 +93,7 @@ print(f"Hello, World! I'm {me.name} 👋")
 
 ---
 
-<!-- GitHub Stats Section -->
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="28"/> &nbsp; GitHub Stats
 
-<div align="center">
-
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MitulNayakwadi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF" height="180" alt="Top Languages"/>
-
-<br/>
-
-<br/><br/>
 
 <!-- Activity Graph -->
 
