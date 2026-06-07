@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mitul%20Nayakwadi&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Technol[...]
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mitul%20Nayakwadi&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Technologist%20%7C%20Builder%20%7C%20Innovator&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=C+%26+Python+Developer+%F0%9F%90%8D;AI+%2B+Practica[...]
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=C+%26+Python+Developer+%F0%9F%90%8D;AI+%2B+Practical+Applications+%F0%9F%A4%96;Web+Developer+(Frontend+%26+Backend)+%F0%9F%8C%90;DSA+Enthusiast+%F0%9F%A7%A9;Clean+Code+Craftsman+%E2%9C%A8;Always+Learning+%7C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -14,6 +14,7 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Coding GIF"/>
 
 <br/>
+
 
 <!-- Profile Views & Social Badges -->
 <p>
