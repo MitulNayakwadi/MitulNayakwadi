@@ -67,31 +67,93 @@ print(f"Hello, World! I'm {me.name} 👋")
 <!-- Tech Stack Section -->
 ## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="32"/> &nbsp; Tech Stack & Tools
 
+
+<h2 align="left">⚡ Tech Stack</h2>
+
 <div align="center">
 
-**Languages**
+<h3>💻 Programming Languages</h3>
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python" width="65"/>
+<img src="https://skillicons.dev/icons?i=java" width="65"/>
+<img src="https://skillicons.dev/icons?i=typescript" width="65"/>
+<img src="https://skillicons.dev/icons?i=javascript" width="65"/>
+<img src="https://skillicons.dev/icons?i=c" width="65"/>
+<img src="https://skillicons.dev/icons?i=html" width="65"/>
+<img src="https://skillicons.dev/icons?i=css" width="65"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="65"/>
+</p>
 
-**AI / Data**
+<br>
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<h3>🌐 Frontend Engineering (React 19 & Next.js)</h3>
 
-**Tools & Platforms**
+<p>
+<img src="https://skillicons.dev/icons?i=react" width="65"/>
+<img src="https://skillicons.dev/icons?i=nextjs" width="65"/>
+<img src="https://skillicons.dev/icons?i=vite" width="65"/>
+<img src="https://skillicons.dev/icons?i=tailwind" width="65"/>
+<img src="https://cdn.simpleicons.org/framer/ffffff" width="65"/>
+</p>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<br>
+
+<h3>🤖 Artificial Intelligence</h3>
+
+<p>
+<img src="https://img.shields.io/badge/GENERATIVE_AI-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MACHINE_LEARNING-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AUTONOMOUS_AGENTS-1E3A8A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OLLAMA-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LOCAL_LLMS-374151?style=for-the-badge"/>
+</p>
+
+<br>
+
+<h3>🗄️ Backend & Databases</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=flask" width="65"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="65"/>
+<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="65"/>
+
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Database_Design-1E293B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RDBMS-0F172A?style=for-the-badge"/>
+</p>
+
+<br>
+
+<h3>☁️ Cloud Infrastructure & DevOps</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws" width="65"/>
+<img src="https://skillicons.dev/icons?i=azure" width="65"/>
+<img src="https://skillicons.dev/icons?i=gcp" width="65"/>
+<img src="https://skillicons.dev/icons?i=git" width="65"/>
+<img src="https://skillicons.dev/icons?i=github" width="65"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/CI/CD_Pipelines-DC2626?style=for-the-badge"/>
+</p>
+
+<br>
+
+<h3>🧠 Core Computer Science</h3>
+
+<p>
+<img src="https://img.shields.io/badge/Data_Structures-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Algorithms-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Problem_Solving-DC2626?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OOP-7C3AED?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Multithreading-EA580C?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
 
 </div>
-
 ---
 
 
