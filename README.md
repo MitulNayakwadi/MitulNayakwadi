@@ -67,93 +67,143 @@ print(f"Hello, World! I'm {me.name} 👋")
 <!-- Tech Stack Section -->
 ## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="32"/> &nbsp; Tech Stack & Tools
 
+```html
+<h3 align="center">💻 Programming Languages</h3>
 
-<h2 align="left">⚡ Tech Stack</h2>
+<p align="center">
 
-<div align="center">
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=python" width="65"/>
+</a>
 
-<h3>💻 Programming Languages</h3>
+<a href="https://www.oracle.com/java/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=java" width="65"/>
+</a>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" width="65"/>
-<img src="https://skillicons.dev/icons?i=java" width="65"/>
-<img src="https://skillicons.dev/icons?i=typescript" width="65"/>
-<img src="https://skillicons.dev/icons?i=javascript" width="65"/>
-<img src="https://skillicons.dev/icons?i=c" width="65"/>
-<img src="https://skillicons.dev/icons?i=html" width="65"/>
-<img src="https://skillicons.dev/icons?i=css" width="65"/>
-<img src="https://skillicons.dev/icons?i=mysql" width="65"/>
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=typescript" width="65"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://skillicons.dev/icons?i=javascript" width="65"/>
+</a>
+
+<a href="https://en.cppreference.com/w/c" target="_blank">
+  <img src="https://skillicons.dev/icons?i=c" width="65"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://skillicons.dev/icons?i=html" width="65"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img src="https://skillicons.dev/icons?i=css" width="65"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mysql" width="65"/>
+</a>
+
 </p>
 
 <br>
 
-<h3>🌐 Frontend Engineering (React 19 & Next.js)</h3>
+<h3 align="center">🌐 Frontend Engineering</h3>
 
-<p>
-<img src="https://skillicons.dev/icons?i=react" width="65"/>
-<img src="https://skillicons.dev/icons?i=nextjs" width="65"/>
-<img src="https://skillicons.dev/icons?i=vite" width="65"/>
-<img src="https://skillicons.dev/icons?i=tailwind" width="65"/>
-<img src="https://cdn.simpleicons.org/framer/ffffff" width="65"/>
+<p align="center">
+
+<a href="https://react.dev/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=react" width="65"/>
+</a>
+
+<a href="https://nextjs.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=nextjs" width="65"/>
+</a>
+
+<a href="https://vitejs.dev/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vite" width="65"/>
+</a>
+
+<a href="https://tailwindcss.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=tailwind" width="65"/>
+</a>
+
+<a href="https://www.framer.com/motion/" target="_blank">
+  <img src="https://cdn.simpleicons.org/framer/ffffff" width="65"/>
+</a>
+
 </p>
 
 <br>
 
-<h3>🤖 Artificial Intelligence</h3>
+<h3 align="center">🗄️ Backend & Databases</h3>
 
-<p>
-<img src="https://img.shields.io/badge/GENERATIVE_AI-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MACHINE_LEARNING-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AUTONOMOUS_AGENTS-1E3A8A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OLLAMA-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LOCAL_LLMS-374151?style=for-the-badge"/>
+<p align="center">
+
+<a href="https://flask.palletsprojects.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=flask" width="65"/>
+</a>
+
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=postgres" width="65"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mysql" width="65"/>
+</a>
+
 </p>
 
 <br>
 
-<h3>🗄️ Backend & Databases</h3>
+<h3 align="center">☁️ Cloud & DevOps</h3>
 
-<p>
-<img src="https://skillicons.dev/icons?i=flask" width="65"/>
-<img src="https://skillicons.dev/icons?i=mysql" width="65"/>
-<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="65"/>
+<p align="center">
 
-</p>
+<a href="https://aws.amazon.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=aws" width="65"/>
+</a>
 
-<p>
-<img src="https://img.shields.io/badge/Database_Design-1E293B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RDBMS-0F172A?style=for-the-badge"/>
-</p>
+<a href="https://azure.microsoft.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=azure" width="65"/>
+</a>
 
-<br>
+<a href="https://cloud.google.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gcp" width="65"/>
+</a>
 
-<h3>☁️ Cloud Infrastructure & DevOps</h3>
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git" width="65"/>
+</a>
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws" width="65"/>
-<img src="https://skillicons.dev/icons?i=azure" width="65"/>
-<img src="https://skillicons.dev/icons?i=gcp" width="65"/>
-<img src="https://skillicons.dev/icons?i=git" width="65"/>
-<img src="https://skillicons.dev/icons?i=github" width="65"/>
-</p>
+<a href="https://github.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" width="65"/>
+</a>
 
-<p>
-<img src="https://img.shields.io/badge/CI/CD_Pipelines-DC2626?style=for-the-badge"/>
 </p>
 
 <br>
 
-<h3>🧠 Core Computer Science</h3>
+<h3 align="center">🤖 Artificial Intelligence</h3>
 
-<p>
-<img src="https://img.shields.io/badge/Data_Structures-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Algorithms-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Problem_Solving-DC2626?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OOP-7C3AED?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Multithreading-EA580C?style=for-the-badge&logo=java&logoColor=white"/>
+<p align="center">
+
+<a href="https://ollama.com/" target="_blank">
+  <img src="https://cdn.simpleicons.org/ollama/ffffff" width="65"/>
+</a>
+
+<a href="https://openai.com/" target="_blank">
+  <img src="https://cdn.simpleicons.org/openai/ffffff" width="65"/>
+</a>
+
+<a href="https://www.tensorflow.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="65"/>
+</a>
+
 </p>
+```
 
-</div>
+
 ---
 
 
