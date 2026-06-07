@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mitul%20Nayakwadi&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Technologist%20%7C%20Builder%20%7C%20Innovator&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mitul%20Nayakwadi&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Technol[...]
 
 <!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=C+%26+Python+Developer+%F0%9F%90%8D;AI+%2B+Practical+Applications+%F0%9F%A4%96;Web+Developer+(Frontend+%26+Backend)+%F0%9F%8C%90;DSA+Enthusiast+%F0%9F%A7%A9;Clean+Code+Craftsman+%E2%9C%A8;Always+Learning+%7C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=C+%26+Python+Developer+%F0%9F%90%8D;AI+%2B+Practica[...]
 </a>
 
 <br/>
@@ -63,7 +63,12 @@ print(f"Hello, World! I'm {me.name} 👋")
 
 ---
 
+<div align="center">
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=MitulNayakwadi&theme=dark&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
 <!-- Tech Stack Section -->
 ## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="32"/> &nbsp; Tech Stack & Tools
 
