@@ -67,7 +67,7 @@ print(f"Hello, World! I'm {me.name} 👋")
 <!-- Tech Stack Section -->
 ## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="32"/> &nbsp; Tech Stack & Tools
 
-```html
+
 <h3 align="center">💻 Programming Languages</h3>
 
 <p align="center">
@@ -201,7 +201,6 @@ print(f"Hello, World! I'm {me.name} 👋")
 </a>
 
 </p>
-```
 
 
 ---
