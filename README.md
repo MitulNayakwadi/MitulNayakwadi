@@ -62,7 +62,9 @@ print(f"Hello, World! I'm {me.name} 👋")
 ```
 
 ---
-
+<div>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=MitulNayakwadi&theme=dark&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+</div>
 <!-- Tech Stack Section -->
 ## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="32"/> &nbsp; Tech Stack & Tools
 
