@@ -234,7 +234,7 @@ print(f"Hello, World! I'm {me.name} 👋")
 
 <div align="center">
 
-> *"Respect the wisdom of traditional approaches, but relentlessly seek new ways to innovate and build solutions for the future."*
+> *"Respect the wisdom of traditional approaches, but relentlessly seek new ways to innovate and build solutions for the future."  *
 > — Mitul Nayakwadi
 
 </div>
