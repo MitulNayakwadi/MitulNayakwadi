@@ -197,8 +197,12 @@ print(f"Hello, World! I'm {me.name} 👋")
   <img src="https://cdn.simpleicons.org/ollama/ffffff" width="65"/>
 </a>
 
-<a href="https://openai.com/" target="_blank">
+<a href="https://chatgpt.com/" target="_blank">
   <img src="https://cdn.simpleicons.org/openai/ffffff" width="65"/>
+</a>
+
+<a href="https://gemini.google.com/" target="_blank">
+  <img src="https://cdn.simpleicons.org/googlebard/ffffff" width="65"/>
 </a>
 
 <a href="https://www.tensorflow.org/" target="_blank">
