@@ -1,11 +1,11 @@
-<div align="center"> <!-- Animated Header Banner --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mitul%20Nayakwadi&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Technologist%20%7C%20Builder%20%7C%20Innovator&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
-
 <div align="center">
 
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mitul%20Nayakwadi&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Technologist%20%7C%20Builder%20%7C%20Innovator&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=C+%26+Python+Developer+%F0%9F%90%8D;AI+%2B+Practical+Solutions;Web+Development+Enthusiast;Data+Structures+%26+Algorithms" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=C+%26+Python+Developer+%F0%9F%90%8D;AI+%2B+Practical+Applications+%F0%9F%A4%96;Web+Developer+(Frontend+%26+Backend)+%F0%9F%8C%90;DSA+Enthusiast+%F0%9F%A7%A9;Clean+Code+Craftsman+%E2%9C%A8;Always+Learning+%7C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -63,142 +63,33 @@ print(f"Hello, World! I'm {me.name} 👋")
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MitulNayakwadi&theme=dark&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <!-- Tech Stack Section -->
 ## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="32"/> &nbsp; Tech Stack & Tools
 
+<div align="center">
 
-<h3 align="center">💻 Programming Languages</h3>
+**Languages**
 
-<p align="center">
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=python" width="65"/>
-</a>
+**AI / Data**
 
-<a href="https://www.oracle.com/java/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=java" width="65"/>
-</a>
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-<a href="https://www.typescriptlang.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=typescript" width="65"/>
-</a>
+**Tools & Platforms**
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://skillicons.dev/icons?i=javascript" width="65"/>
-</a>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<a href="https://en.cppreference.com/w/c" target="_blank">
-  <img src="https://skillicons.dev/icons?i=c" width="65"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img src="https://skillicons.dev/icons?i=html" width="65"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img src="https://skillicons.dev/icons?i=css" width="65"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=mysql" width="65"/>
-</a>
-
-</p>
-
-<br>
-
-<h3 align="center">🌐 Frontend Engineering</h3>
-
-<p align="center">
-
-<a href="https://react.dev/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=react" width="65"/>
-</a>
-
-<a href="https://nextjs.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=nextjs" width="65"/>
-</a>
-
-<a href="https://vitejs.dev/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=vite" width="65"/>
-</a>
-
-<a href="https://tailwindcss.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=tailwind" width="65"/>
-</a>
-
-<a href="https://www.framer.com/motion/" target="_blank">
-  <img src="https://cdn.simpleicons.org/framer/ffffff" width="65"/>
-</a>
-
-</p>
-
-<br>
-
-<h3 align="center">🗄️ Backend & Databases</h3>
-
-<p align="center">
-
-<a href="https://flask.palletsprojects.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=flask" width="65"/>
-</a>
-
-<a href="https://www.postgresql.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=postgres" width="65"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=mysql" width="65"/>
-</a>
-
-</p>
-
-<br>
-
-<h3 align="center">☁️ Cloud & DevOps</h3>
-
-<p align="center">
-
-<a href="https://aws.amazon.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=aws" width="65"/>
-</a>
-
-<a href="https://azure.microsoft.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=azure" width="65"/>
-</a>
-
-<a href="https://cloud.google.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gcp" width="65"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=git" width="65"/>
-</a>
-
-<a href="https://github.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" width="65"/>
-</a>
-
-</p>
-
-<br>
-
-<h3 align="center">🤖 Artificial Intelligence</h3>
-
-<p align="center">
-
-<a href="https://ollama.com/" target="_blank">
-  <img src="https://cdn.simpleicons.org/ollama/ffffff" width="65"/>
-</a>
-
-
-<a href="https://www.tensorflow.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=tensorflow" width="65"/>
-</a>
-
-</p>
-
+</div>
 
 ---
 
