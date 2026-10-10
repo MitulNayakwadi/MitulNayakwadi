@@ -18,7 +18,6 @@
 
 <!-- Profile Views & Social Badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=MitulNayakwadi&label=Profile%20Views&color=7c3aed&style=flat-square" alt="Profile Views"/>
   &nbsp;
   <a href="https://www.linkedin.com/in/MitulNayakwadi-6a3218319/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
